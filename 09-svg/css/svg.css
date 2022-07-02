@@ -42,7 +42,7 @@
 }
 
 .svgmqbg {
-  background: #fffffe url(./images/svgmqbg.svg);
+  background: #fffffe url(../images/svgmqbg.svg);
 }
 .svgmqbg > header,
 .svgmqbg > footer {
@@ -139,17 +139,17 @@ label span {
 }
 
 .star-bg {
-  background: url(./images/svg-icons.svg#star);
+  background: url(../images/svg-icons.svg#star);
   background-size: 20px 20px;
 }
 
 .hex-bg {
-  background: url(./images/svg-icons.svg#hexagon);
+  background: url(../images/svg-icons.svg#hexagon);
   background-size: 20px 20px;
 }
 
 .tri-bg {
-  background: url(./images/svg-icons.svg#triangle);
+  background: url(../images/svg-icons.svg#triangle);
   background-size: 20px 20px;
 }
 
